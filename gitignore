@@ -1,0 +1,19 @@
+# API keys — never commit these
+.env
+secrets.json
+*.key
+
+# Generated report outputs
+daily_report_*.html
+charts/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
