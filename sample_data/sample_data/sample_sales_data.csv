@@ -1,29 +1,29 @@
-Date	Revenue	Units Sold	Region	Product
-10-06-2024	85000	320	South	Product A
-10-06-2024	62000	210	North	Product B
-10-06-2024	41000	180	East	Product A
-10-06-2024	33000	140	West	Product C
-11-06-2024	91000	340	South	Product B
-11-06-2024	58000	195	North	Product A
-11-06-2024	44000	165	East	Product C
-11-06-2024	37000	155	West	Product B
-12-06-2024	78000	290	South	Product A
-12-06-2024	65000	230	North	Product C
-12-06-2024	39000	145	East	Product B
-12-06-2024	42000	160	West	Product A
-13-06-2024	95000	360	South	Product C
-13-06-2024	70000	250	North	Product A
-13-06-2024	48000	185	East	Product B
-13-06-2024	36000	135	West	Product C
-14-06-2024	88000	330	South	Product B
-14-06-2024	66000	220	North	Product C
-14-06-2024	51000	200	East	Product A
-14-06-2024	39000	150	West	Product B
-15-06-2024	72000	260	South	Product A
-15-06-2024	59000	205	North	Product B
-15-06-2024	45000	170	East	Product C
-15-06-2024	38000	145	West	Product A
-16-06-2024	69000	245	South	Product C
-16-06-2024	61000	215	North	Product A
-16-06-2024	43000	160	East	Product B
-16-06-2024	35000	130	West	Product C
+Date,Revenue,Units Sold,Region,Product
+2024-06-10,85000,320,South,Product A
+2024-06-10,62000,210,North,Product B
+2024-06-10,41000,180,East,Product A
+2024-06-10,33000,140,West,Product C
+2024-06-11,91000,340,South,Product B
+2024-06-11,58000,195,North,Product A
+2024-06-11,44000,165,East,Product C
+2024-06-11,37000,155,West,Product B
+2024-06-12,78000,290,South,Product A
+2024-06-12,65000,230,North,Product C
+2024-06-12,39000,145,East,Product B
+2024-06-12,42000,160,West,Product A
+2024-06-13,95000,360,South,Product C
+2024-06-13,70000,250,North,Product A
+2024-06-13,48000,185,East,Product B
+2024-06-13,36000,135,West,Product C
+2024-06-14,88000,330,South,Product B
+2024-06-14,66000,220,North,Product C
+2024-06-14,51000,200,East,Product A
+2024-06-14,39000,150,West,Product B
+2024-06-15,72000,260,South,Product A
+2024-06-15,59000,205,North,Product B
+2024-06-15,45000,170,East,Product C
+2024-06-15,38000,145,West,Product A
+2024-06-16,69000,245,South,Product C
+2024-06-16,61000,215,North,Product A
+2024-06-16,43000,160,East,Product B
+2024-06-16,35000,130,West,Product C
